@@ -95,15 +95,7 @@ if player >=1 and player <=5:
     elif(player==5 and computer ==4):
         print('You chose: 🖖')
         print('CPU chose: 🦎')
-        print('The player lose')
-        
-        
-        
-        
-        
-        
-        
-        
+        print('The player lose')     
     elif player == computer:
         print('It\'s a tie!')
 else:
